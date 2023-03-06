@@ -8,4 +8,5 @@ requests
 bs4
 imdbpy==2022.7.9
 datetime
+logging
 aiohttp
